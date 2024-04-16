@@ -20,4 +20,6 @@
 
 [LAB-08](https://github.com/rithwikburri/AIML_Batch_10/blob/main/Lab_08.ipynb)
 
+[LAB-09](https://github.com/rithwikburri/AIML_Batch_10/blob/main/LAB_09.ipynb)
+
 
