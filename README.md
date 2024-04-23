@@ -22,4 +22,6 @@
 
 [LAB-09](https://github.com/rithwikburri/AIML_Batch_10/blob/main/LAB_09.ipynb)
 
+[LAB-10](https://github.com/rithwikburri/AIML_Batch_10/blob/main/Lab_10.ipynb)
+
 
