@@ -24,4 +24,8 @@
 
 [LAB-10](https://github.com/rithwikburri/AIML_Batch_10/blob/main/Lab_10.ipynb)
 
+[Project_using_RFC](https://github.com/rithwikburri/AIML_Batch_10/blob/main/ProjectusingRFC.ipynb)
+
+[Project_using_KNN](https://github.com/rithwikburri/AIML_Batch_10/blob/main/Projectusingknn.ipynb)
+
 
